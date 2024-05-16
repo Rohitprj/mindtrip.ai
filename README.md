@@ -1,0 +1,2 @@
+# mindtrip.ai
+Mindtrip Clone
